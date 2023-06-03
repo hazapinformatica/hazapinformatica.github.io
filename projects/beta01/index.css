@@ -19,6 +19,9 @@ body {
 .texts {
     background-color: #2d2d44;
 }
+.texts-sub  {
+    color: #FFB74D;
+}
 .btn    {
     background-color: #651FFF;
     color: #fff;
