@@ -1,0 +1,31 @@
+body {
+    background-color: #1e1e2c;
+    color: #fff;
+    padding: 1rem;
+}
+.navbar {
+    background-color: #1e1e2c;
+}
+.title{
+    color: #e40000;
+}
+.card-img   {
+    background-color: #2d2d44;
+    height: 30rem;
+}
+.card-img-overlay   {
+    padding: 12% 5%;
+}
+.texts {
+    background-color: #2d2d44;
+}
+.texts-sub  {
+    color: #ff795b;
+}
+.btn    {
+    background-color: #02eeee;
+    color: #fff;
+}
+.btn:hover {
+    background-color: #00c1ce;
+}
