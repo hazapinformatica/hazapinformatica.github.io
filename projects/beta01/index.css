@@ -1,10 +1,24 @@
 body {
-    background-color: #202020;
+    background-color: #1e1e2c;
+    color: #fff;
+    padding: 1rem;
+}
+.navbar {
+    background-color: #1e1e2c;
+}
+h4 {
+    color: #FF6D00;
+}
+.card-img-overlay   {
+    padding-top: 20%;
+}
+.texts {
+    background-color: #2d2d44;
+}
+.btn    {
+    background-color: #4A148C;
     color: #fff;
 }
-header {
-    
-}
-footer {
-    
+.btn:hover {
+    background-color: #4A148C;
 }
